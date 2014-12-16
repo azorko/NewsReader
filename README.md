@@ -1,4 +1,4 @@
-Main Project: RSS Feed Reader
+Project: RSS Feed Reader
 
 Focus:
 
